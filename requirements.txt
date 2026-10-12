@@ -1,0 +1,14 @@
+# Data Frame Libraries (Phase 1)
+pandas
+polars
+pyarrow
+# Data Build Tool (Phase 3) — pinned to avoid a mid-semester breaking upgrade
+dbt-core~=1.11
+dbt-snowflake~=1.11
+# Cloud Data Warehouse Driver (Phase 2 & 3)
+snowflake-connector-python
+# AI & Agentic Tooling (Phase 4)
+openai
+anthropic
+mcp>=1.27,<2
+python-dotenv

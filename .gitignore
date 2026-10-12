@@ -1,0 +1,18 @@
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore all data and database files
+data/
+*.db
+*.csv
+*.parquet
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
